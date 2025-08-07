@@ -1,9 +1,3 @@
-Ah, I understand. You're right, the instructions for publishing were a bit mixed. I'll correct that by separating the initial installation process from the update procedure. I will write a comprehensive guide for a user who is completely new to both Apps Script and AppSheet, covering everything from creating a new Apps Script project to the final publication within a Google Workspace organization.
-
-Here is the revised README with detailed installation instructions.
-
------
-
 # Docs Versioning for AppSheet
 
 This Google Apps Script project automates the versioning of Google Docs and synchronizes this data with an AppSheet application. The script adds a unique identifier and version number to the document's footer and tracks all revisions and associated metadata in a connected AppSheet database.
