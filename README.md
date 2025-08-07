@@ -1,5 +1,7 @@
 # Docs Versioning for AppSheet
 
+> This README file has been generated with AI!
+
 This Google Apps Script project automates the versioning of Google Docs and synchronizes this data with an AppSheet application. The script adds a unique identifier and version number to the document's footer and tracks all revisions and associated metadata in a connected AppSheet database.
 
 ## Table of Contents
